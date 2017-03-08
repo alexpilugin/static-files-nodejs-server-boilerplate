@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-static-file-server-boilerplate",
+    "version": "0.0.1",
+    "description": "A simple boilerplate nodejs static file server.",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "node-static": "0.6.x"
+    }
+}
